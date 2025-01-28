@@ -2,7 +2,7 @@
 
 Please see the website at https://www.urbackup.org for more information, wiki, forums and the issue tracker.
 
-### Building on Debian (11 - bookworm)
+### Building on Linux Debian (11 - bookworm)
 
 Install dependencies
 
